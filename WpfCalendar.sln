@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfCalendar", "WpfCalendar\WpfCalendar.csproj", "{414F8941-F789-46A4-BC9E-F0777483708C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{414F8941-F789-46A4-BC9E-F0777483708C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{414F8941-F789-46A4-BC9E-F0777483708C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{414F8941-F789-46A4-BC9E-F0777483708C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{414F8941-F789-46A4-BC9E-F0777483708C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42FE8D5D-8A4E-46A4-8A46-A462DB67FAB0}
+	EndGlobalSection
+EndGlobal

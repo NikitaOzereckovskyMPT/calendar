@@ -1,0 +1,10 @@
+﻿<UserControl x:Class="WpfCalendar.SelectionItemControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Grid>
+        <StackPanel Orientation="Horizontal">
+            <Image x:Name="IconImage" Height="32" Width="32" Margin="0,0,10,0" />
+            <TextBlock x:Name="ItemNameText" />
+        </StackPanel>
+    </Grid>
+</UserControl>
